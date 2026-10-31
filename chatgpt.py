@@ -9,8 +9,8 @@ from datetime import datetime
 from typing import Dict, List, Optional, Tuple
 
 BOT_TOKEN = "توكن"
-CHANNEL_USERNAME = "@hackeronions"
-CHANNEL_ID = "@hackeronions"
+CHANNEL_USERNAME = "@"
+CHANNEL_ID = "@"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
