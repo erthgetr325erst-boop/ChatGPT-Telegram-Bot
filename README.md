@@ -27,13 +27,13 @@ A feature-rich Telegram bot that provides an AI-powered conversational experienc
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+https://github.com/erthgetr325erst-boop/ChatGPT-Telegram-Bot.git
 ```
 
 ### 2. Open the project folder
 
 ```bash
-cd YOUR_REPOSITORY
+cd ChatGPT-Telegram-Bot
 ```
 
 ### 3. Install dependencies
